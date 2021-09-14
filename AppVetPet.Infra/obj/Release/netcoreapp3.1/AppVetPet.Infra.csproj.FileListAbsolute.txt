@@ -1,0 +1,12 @@
+C:\Users\Rafae\source\repos\AppVetPet.Infra\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Rafae\source\repos\AppVetPet.Infra\bin\Release\netcoreapp3.1\Cosmos.CRTCompat.dll
+C:\Users\Rafae\source\repos\AppVetPet.Infra\bin\Release\netcoreapp3.1\AppVetPet.Infra.deps.json
+C:\Users\Rafae\source\repos\AppVetPet.Infra\bin\Release\netcoreapp3.1\AppVetPet.Infra.dll
+C:\Users\Rafae\source\repos\AppVetPet.Infra\bin\Release\netcoreapp3.1\AppVetPet.Infra.pdb
+C:\Users\Rafae\source\repos\AppVetPet.Infra\obj\Release\netcoreapp3.1\AppVetPet.Infra.csprojAssemblyReference.cache
+C:\Users\Rafae\source\repos\AppVetPet.Infra\obj\Release\netcoreapp3.1\AppVetPet.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafae\source\repos\AppVetPet.Infra\obj\Release\netcoreapp3.1\AppVetPet.Infra.AssemblyInfoInputs.cache
+C:\Users\Rafae\source\repos\AppVetPet.Infra\obj\Release\netcoreapp3.1\AppVetPet.Infra.AssemblyInfo.cs
+C:\Users\Rafae\source\repos\AppVetPet.Infra\obj\Release\netcoreapp3.1\AppVetPet.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\source\repos\AppVetPet.Infra\obj\Release\netcoreapp3.1\AppVetPet.Infra.dll
+C:\Users\Rafae\source\repos\AppVetPet.Infra\obj\Release\netcoreapp3.1\AppVetPet.Infra.pdb
